@@ -1,12 +1,12 @@
 # CaféApi Library Test
 
-[![Source Code](http://img.shields.io/badge/source-ViniciusRBezerra/autentique-blue.svg?style=flat-square)](https://github.com/ViniciusRBezerra/autentique)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/ViniciusRBezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/ViniciusRBezerra/autentique)
-[![Latest Version](https://img.shields.io/github/release/ViniciusRBezerra/autentique.svg?style=flat-square)](https://github.com/ViniciusRBezerra/autentique/releases)
+[![Source Code](http://img.shields.io/badge/source-viniciusrbezerra/autentique-blue.svg?style=flat-square)](https://github.com/viniciusrbezerra/autentique)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/viniciusrbezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/viniciusrbezerra/autentique)
+[![Latest Version](https://img.shields.io/github/release/viniciusrbezerra/autentique.svg?style=flat-square)](https://github.com/viniciusrbezerra/autentique/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/ViniciusRBezerra/autentique.svg?style=flat-square)](https://scrutinizer-ci.com/g/ViniciusRBezerra/autentique)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ViniciusRBezerra/autentique.svg?style=flat-square)](https://scrutinizer-ci.com/g/ViniciusRBezerra/autentique)
-[![Total Downloads](https://img.shields.io/packagist/dt/ViniciusRBezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/cViniciusRBezerra/autentique)
+[![Build](https://img.shields.io/scrutinizer/build/g/viniciusrbezerra/autentique.svg?style=flat-square)](https://scrutinizer-ci.com/g/viniciusrbezerra/autentique)
+[![Quality Score](https://img.shields.io/scrutinizer/g/viniciusrbezerra/autentique.svg?style=flat-square)](https://scrutinizer-ci.com/g/viniciusrbezerra/autentique)
+[![Total Downloads](https://img.shields.io/packagist/dt/viniciusrbezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/cviniciusrbezerra/autentique)
 
 ###### Autentique is a website for signing documents online and this is an API for seamless integration with the website.
 
@@ -23,13 +23,13 @@ Autentique é um site para assinar documentos online e está é uma API para int
 Uploader is available via Composer:
 
 ```bash
-"ViniciusRBezerra/autentique": "^1.0"
+"viniciusrbezerra/autentique": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require ViniciusRBezerra/autentique
+composer require viniciusrbezerra/autentique
 ```
 
 ## Documentation
@@ -77,7 +77,7 @@ $sign = (new \Autentique\Document())->signDocument($document->callback()->create
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/ViniciusRBezerra/uploader/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/viniciusrbezerra/uploader/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -89,8 +89,8 @@ Thank you
 
 ## Credits
 
-- [Vinícius R. Bezerra](https://github.com/ViniciusRBezerra) (Developer)
+- [Vinícius R. Bezerra](https://github.com/viniciusrbezerra) (Developer)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/ViniciusRBezerra/autentique/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/viniciusrbezerra/autentique/blob/master/LICENSE) for more information.
