@@ -1,4 +1,4 @@
-# CaféApi Library Test
+# Autentique Library
 
 [![Source Code](http://img.shields.io/badge/source-viniciusrbezerra/autentique-blue.svg?style=flat-square)](https://github.com/viniciusrbezerra/autentique)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/viniciusrbezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/viniciusrbezerra/autentique)
