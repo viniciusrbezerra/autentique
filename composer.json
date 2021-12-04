@@ -1,0 +1,28 @@
+{
+  "name": "Viniciusrbezerra/autentique",
+  "description": "A quick and easy AUTENTIQUE integration library that can be used to create new documents, folders and make signatures directly from your application",
+  "keywords": [
+    "autentique",
+    "signature",
+    "document"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vinícius Rodrigues Bezerra",
+      "email": "contato@viniciusrodrigues.me",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "vlucas/phpdotenv": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ViniciusRBezerra\\Autentique\\": "src/"
+    }
+  }
+}
