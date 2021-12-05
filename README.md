@@ -40,6 +40,15 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 #### User endpoint:
 
+Add your application configuration to a `.env` file in the root of your
+project. **Make sure the `.env` file is added to your `.gitignore` so it is not
+checked-in the code**
+
+```shell
+AUTENTIQUE_TOKEN="YOUR TOKEN HERE"
+AUTENTIQUE_DEV_MODE="true or false"
+```
+
 ```php
 <?php
 
