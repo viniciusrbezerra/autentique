@@ -1,7 +1,7 @@
 # Autentique Library
 
 [![Source Code](http://img.shields.io/badge/source-viniciusrbezerra/autentique-blue.svg?style=flat-square)](https://github.com/viniciusrbezerra/autentique)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/robsonvleite/cafeapi.svg?style=flat-square)](https://packagist.org/packages/robsonvleite/cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/viniciusrbezerra/autentique.svg?style=flat-square)](https://packagist.org/packages/viniciusrbezerra/autentique)
 [![Latest Version](https://img.shields.io/github/release/viniciusrbezerra/autentique.svg?style=flat-square)](https://github.com/viniciusrbezerra/autentique/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/viniciusrbezerra/autentique.svg?style=flat-square)](https://scrutinizer-ci.com/g/viniciusrbezerra/autentique)
