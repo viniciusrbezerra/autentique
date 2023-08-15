@@ -88,14 +88,6 @@ $sign = (new \Autentique\Document())->signDocument($document->callback()->create
 
 Please see [CONTRIBUTING](https://github.com/viniciusrbezerra/uploader/blob/master/CONTRIBUTING.md) for details.
 
-## Support
-
-###### Security: If you discover any security related issues, please email meu@email.com.br instead of using the issue tracker.
-
-Se você descobrir algum problema relacionado à segurança, envie um e-mail para meu@email.com.br em vez de usar o rastreador de problemas.
-
-Thank you
-
 ## Credits
 
 - [Vinícius R. Bezerra](https://github.com/viniciusrbezerra) (Developer)
